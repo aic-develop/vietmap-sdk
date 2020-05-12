@@ -1,7 +1,7 @@
 {
   "name": "vietmap-sdk",
-  "version": "1.1.1",
-  "description": "JS SDK for accessing Mapbox APIs",
+  "version": "1.0.0",
+  "description": "JS SDK for accessing VietMap APIs",
   "main": "index.js",
   "files": [
     "umd",
@@ -27,10 +27,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mapbox/mapbox-sdk-js.git"
+    "url": "git+https://github.com/aic-develop/vietmap-sdk.git"
   },
   "keywords": [
-    "mapbox",
+    "vietmap",
     "sdk",
     "api",
     "map",
@@ -40,12 +40,12 @@
     "search",
     "navigation"
   ],
-  "author": "Mapbox",
+  "author": "VietMap",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/mapbox/mapbox-sdk-js/issues"
+    "url": "https://github.com/aic-develop/vietmap-sdk/issues"
   },
-  "homepage": "https://github.com/mapbox/mapbox-sdk-js#readme",
+  "homepage": "https://github.com/aic-develop/vietmap-sdk#readme",
   "browser": {
     "./lib/client.js": "./lib/browser/browser-client.js"
   },

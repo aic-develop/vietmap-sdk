@@ -1,5 +1,5 @@
 {
-  "name": "vietmap-sdk",
+  "name": "vietmaps-sdk",
   "version": "1.0.0",
   "description": "JS SDK for accessing VietMap APIs",
   "main": "index.js",
@@ -113,5 +113,10 @@
   },
   "engines": {
     "node": ">=6"
+  },
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "test"
   }
 }

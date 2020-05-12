@@ -1,4 +1,4 @@
-# @vietmap/vietmap-sdk
+# vietmaps-sdk
 
 A JS SDK for working with [VietMap APIs](https://docs.vietmaps.vn).
 
@@ -25,7 +25,7 @@ Please read the documentation and open issues with questions or problems.
 ## Installation
 
 ```
-npm install @vietmap/vietmap-sdk
+npm install vietmaps-sdk
 ```
 
 **If you are supporting older browsers, you will need a Promise polyfill.**

@@ -1,6 +1,6 @@
-# @mapbox/mapbox-sdk
+# @vietmap/vietmap-sdk
 
-A JS SDK for working with [Mapbox APIs](https://docs.mapbox.com/api/).
+A JS SDK for working with [VietMap APIs](https://docs.vietmaps.vn).
 
 Works in Node, the browser, and React Native.
 
@@ -25,7 +25,7 @@ Please read the documentation and open issues with questions or problems.
 ## Installation
 
 ```
-npm install @mapbox/mapbox-sdk
+npm install @vietmap/vietmap-sdk
 ```
 
 **If you are supporting older browsers, you will need a Promise polyfill.**
